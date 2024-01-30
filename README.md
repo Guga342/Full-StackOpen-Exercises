@@ -1,2 +1,2 @@
 # FullStackOpen-Exercises
-There I will send all the exercises and projects for complete this course!
+There I will save all exercises and projects for complete this course!
