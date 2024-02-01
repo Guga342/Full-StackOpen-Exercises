@@ -1,3 +1,3 @@
 # Part 0
 
-In this section, we will familiarize ourselves with how the course will be done, and after that, we will have an overview of the basics of web development, and also talk about the advances in web application development during the last few decades.
+In this section, we will get acquainted with the course structure. We will start by learning the fundamentals of web development, and then we will discuss the progress made in web application development over the last few decades.
